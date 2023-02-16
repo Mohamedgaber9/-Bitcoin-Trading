@@ -56,3 +56,7 @@ Also, a sample submission, containing the timestamp and the predicted signal:
 - password=<same as in specialization 2>
 - dbname=s02_db
 - schema=public
+
+
+# Evaluation criteria for your model
+Your model will be evaluated with the ROC_AUC score.
